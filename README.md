@@ -103,6 +103,13 @@ Active contributor to various open-source projects, enhancing functionality and 
 
 *Thanks for visiting my profile! Let's connect and create something amazing together!* 😊 
 
+## 🔥 GitHub Streaks
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Humble689&theme=radical&hide_border=true&background=0D1117&stroke=2196F3" alt="GitHub Streak" />
+</div>
+
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Humble689&theme=radical" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Humble689&theme=radical" alt="Repos Per Language" />
