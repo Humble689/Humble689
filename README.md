@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Travis Mark!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Anime+%26+Soccer+Fan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Turning+Ideas+Into+Systems" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -19,18 +19,49 @@ I'm a passionate software developer who loves creating innovative solutions and 
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-</div>
+### Languages & Core Tech
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,sql,html,css,dart" />
+</p>
 
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter" />
+</p>
+
+### Data, AI & Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pandas,numpy" />
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,firebase" />
+</p>
+
+---
+
+
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/puoch1of1/puoch1of1/output/github-top-langs.svg?v=1"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/puoch1of1/puoch1of1/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+> Powered by a GitHub Action that turns commits into a moving organism.  
+> Evolution, but make it version-controlled.
+
+---
 ## 🏆 Featured Projects
 
 ### 1. Task Management Web App
@@ -100,8 +131,17 @@ Active contributor to various open-source projects, enhancing functionality and 
   <img src="https://komarev.com/ghpvc/?username=Humble689&style=flat-square&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Humble689?label=Followers&style=social" alt="GitHub Followers" />
 </div>
+## ✨ Extras
 
-*Thanks for visiting my profile! Let's connect and create something amazing together!* 😊 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=puoch1of1&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile Views" />
+</p>
+
+*Let's connect and create something amazing together!* 😊 
 
 ## 🔥 GitHub Streaks
 
