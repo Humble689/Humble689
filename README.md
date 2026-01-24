@@ -48,7 +48,7 @@ I'm a passionate software developer who loves creating innovative solutions and 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/puoch1of1/puoch1of1/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Humble689/Humble689/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 > Powered by a GitHub Action that turns commits into a moving organism.  
