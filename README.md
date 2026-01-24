@@ -43,14 +43,7 @@ I'm a passionate software developer who loves creating innovative solutions and 
 
 
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/puoch1of1/puoch1of1/output/github-top-langs.svg?v=1"
-    alt="Top Languages"
-  />
-</p>
 
----
 
 ## 🐍 Contribution Snake
 
