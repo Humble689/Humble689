@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Turning+Ideas+Into+Systems" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Humble689&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
 ## 🚀 About Me
 
 I'm a passionate software developer who loves creating innovative solutions and diving deep into code. When I'm not coding, you'll find me watching anime or cheering for Messi! 
