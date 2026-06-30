@@ -17,12 +17,17 @@ I'm a passionate software developer who loves creating innovative solutions and 
 
 ### Languages & Core Tech
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,sql,html,css,dart" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,sql,html,css,dart" />
 </p>
 
 ### Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter" />
+</p>
+
+### PHP Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Yii2-Framework-40B3D8?style=for-the-badge&logo=yii&logoColor=white" />
 </p>
 
 ### Data, AI & Analytics
